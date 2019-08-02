@@ -2338,7 +2338,7 @@ nav.mobile-menu-open .navbar-toggle em:last-child {
 	padding: 15px 0 20px;
 }
 .vip{
-	background: url(/assets/vip.png) no-repeat left top;
+	background: url(../assets/vip.png) no-repeat left top;
 	width: 35px;
 	height: 30px;
 	background-size: 100%;
